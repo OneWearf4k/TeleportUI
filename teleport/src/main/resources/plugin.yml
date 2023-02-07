@@ -1,0 +1,13 @@
+name: TeleportUI
+main: whoim.teleport.Main
+author: "WHOIM"
+version: 1.0.8
+api: ["1.0.9"]
+
+ppermissions:
+  use.tp:
+    default: true
+  use.tpa:
+    default: true
+    
+  

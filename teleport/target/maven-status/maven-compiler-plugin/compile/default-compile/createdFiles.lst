@@ -1,0 +1,4 @@
+whoim/teleport/forms/TeleportForm.class
+whoim/teleport/Main.class
+whoim/teleport/commands/TpCommand.class
+whoim/teleport/commands/TpaCommand.class
